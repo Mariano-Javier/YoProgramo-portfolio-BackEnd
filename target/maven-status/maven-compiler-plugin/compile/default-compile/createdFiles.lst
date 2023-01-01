@@ -38,6 +38,7 @@ com\portfolio\yoprogramo\dto\dtoExperiencia.class
 com\portfolio\yoprogramo\security\dto\LoginUsuario.class
 com\portfolio\yoprogramo\security\controller\Mensaje.class
 com\portfolio\yoprogramo\repository\RProyectos.class
+com\portfolio\yoprogramo\WebConfig.class
 com\portfolio\yoprogramo\security\repository\IUsuarioRepository.class
 com\portfolio\yoprogramo\controller\PersonaController.class
 com\portfolio\yoprogramo\model\Proyectos.class
